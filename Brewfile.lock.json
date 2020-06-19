@@ -455,6 +455,12 @@
         "options": {
           "full_name": "font-source-sans-pro"
         }
+      },
+      "karabiner-elements": {
+        "version": "12.9.0",
+        "options": {
+          "full_name": "karabiner-elements"
+        }
       }
     },
     "mas": {
