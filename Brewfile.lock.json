@@ -15,6 +15,9 @@
       },
       "homebrew/bundle": {
         "revision": "4b9a95355a4784a6839821ec58467f8e1ed96ad7"
+      },
+      "romkatv/powerlevel10k": {
+        "revision": "06ad7f48760247bbb5fed8b8764e1fdc461ed8a2"
       }
     },
     "brew": {
@@ -243,7 +246,8 @@
       "yarn": {
         "version": "1.22.4",
         "bottle": false
-      }
+      },
+      "romkatv/powerlevel10k/powerlevel10k": null
     },
     "cask": {
       "1password": {

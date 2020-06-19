@@ -4,6 +4,7 @@ tap 'homebrew/cask-eid'
 tap 'homebrew/cask-fonts'
 tap 'homebrew/cask-versions'
 tap 'homebrew/bundle'
+tap 'romkatv/powerlevel10k'
 
 # Binaries
 brew 'coreutils' # Those that come with macOS are outdated
@@ -21,6 +22,7 @@ brew 'composer'
 brew 'imagemagick'
 brew 'php'
 brew 'yarn'
+brew 'romkatv/powerlevel10k/powerlevel10k'
 
 # Apps
 cask '1password'
