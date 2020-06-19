@@ -29,18 +29,20 @@ cask 'aerial'
 cask 'alfred'
 cask 'blockblock'
 cask 'charles'
+cask 'coda'
 cask 'daisydisk'
 cask 'docker'
 cask 'drawio'
 cask 'dropbox'
 cask 'google-chrome'
 cask 'istat-menus'
+cask 'iterm2'
 cask 'little-snitch'
 cask 'phpstorm'
+cask 'sequel-pro'
 cask 'skype'
 cask 'slack'
 cask 'sublime-text'
-cask 'tableplus'
 cask 'transmit'
 cask 'vagrant'
 cask 'virtualbox' # Might need to allow access in Security settings
@@ -59,24 +61,18 @@ cask 'qlstephen'
 
 # Fonts
 cask 'font-lato'
-cask 'font-open-sans'
-cask 'font-roboto'
-cask 'font-roboto-condensed'
-cask 'font-source-code-pro-for-powerline'
-cask 'font-source-code-pro'
 cask 'font-source-sans-pro'
-cask 'font-source-serif-pro'
 
 # Mac App Store
-mas "Baby Monitor 3G", id: 626137367
-mas "Better", id: 1121192229
-mas "Blink Lite", id: 431473881
-mas "Fantastical", id: 975937182
+mas 'Baby Monitor 3G', id: 626137367
+mas 'Better', id: 1121192229
+mas 'Blink Lite', id: 431473881
+mas 'Fantastical', id: 975937182
 mas 'Keynote', id: 409183694
-mas "Magnet", id: 441258766
+mas 'Magnet', id: 441258766
 mas 'Numbers', id: 409203825
-mas "Pages", id: 409201541
-mas "Pixelmator", id: 407963104
+mas 'Pages', id: 409201541
+mas 'Pixelmator', id: 407963104
 mas 'Spark', id: 1176895641
-mas "Tweetbot", id: 557168941
-mas "WeTransfer", id: 1114922065
+mas 'Tweetbot', id: 557168941
+mas 'WeTransfer', id: 1114922065
