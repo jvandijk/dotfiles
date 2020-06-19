@@ -247,7 +247,11 @@
         "version": "1.22.4",
         "bottle": false
       },
-      "romkatv/powerlevel10k/powerlevel10k": null
+      "romkatv/powerlevel10k/powerlevel10k": null,
+      "nvm": {
+        "version": "0.35.3",
+        "bottle": false
+      }
     },
     "cask": {
       "1password": {

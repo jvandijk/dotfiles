@@ -20,9 +20,10 @@ brew 'wget'
 brew 'asdf'
 brew 'composer'
 brew 'imagemagick'
+brew 'nvm'
 brew 'php'
-brew 'yarn'
 brew 'romkatv/powerlevel10k/powerlevel10k'
+brew 'yarn'
 
 # Apps
 cask '1password'
