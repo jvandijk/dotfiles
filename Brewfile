@@ -80,3 +80,4 @@ mas 'Pixelmator', id: 407963104
 mas 'Spark', id: 1176895641
 mas 'Tweetbot', id: 557168941
 mas 'WeTransfer', id: 1114922065
+mas 'Xcode', id: 497799835

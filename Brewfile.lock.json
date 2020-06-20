@@ -519,6 +519,10 @@
       "WeTransfer": {
         "id": "1114922065",
         "version": "1.5.2"
+      },
+      "Xcode": {
+        "id": "497799835",
+        "version": "11.5"
       }
     }
   },
@@ -529,7 +533,7 @@
         "HOMEBREW_PREFIX": "/usr/local",
         "Homebrew/homebrew-core": "a66a00db0889f1f323db5d3bbe26fcfc7282840b",
         "CLT": "11.5.0.0.1.1588476445",
-        "Xcode": "11.4.1",
+        "Xcode": "11.5",
         "macOS": "10.15.5"
       }
     }
