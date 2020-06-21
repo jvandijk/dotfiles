@@ -469,6 +469,12 @@
         "options": {
           "full_name": "karabiner-elements"
         }
+      },
+      "spotify": {
+        "version": "latest",
+        "options": {
+          "full_name": "spotify"
+        }
       }
     },
     "mas": {
