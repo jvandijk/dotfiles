@@ -14,7 +14,7 @@
         "revision": "606e46cb1f8701ae0b34753c4733c130b6df6286"
       },
       "homebrew/bundle": {
-        "revision": "4b9a95355a4784a6839821ec58467f8e1ed96ad7"
+        "revision": "6b8c64f85049db403e56c1a30328be214a58dbfe"
       },
       "romkatv/powerlevel10k": {
         "revision": "06ad7f48760247bbb5fed8b8764e1fdc461ed8a2"
@@ -474,6 +474,30 @@
         "version": "latest",
         "options": {
           "full_name": "spotify"
+        }
+      },
+      "microsoft-excel": {
+        "version": "16.38.20061401",
+        "options": {
+          "full_name": "microsoft-excel"
+        }
+      },
+      "microsoft-powerpoint": {
+        "version": "16.38.20061401",
+        "options": {
+          "full_name": "microsoft-powerpoint"
+        }
+      },
+      "microsoft-teams": {
+        "version": "1.3.00.15561",
+        "options": {
+          "full_name": "microsoft-teams"
+        }
+      },
+      "microsoft-word": {
+        "version": "16.38.20061401",
+        "options": {
+          "full_name": "microsoft-word"
         }
       }
     },

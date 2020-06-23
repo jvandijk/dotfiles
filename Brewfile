@@ -42,6 +42,10 @@ cask 'istat-menus'
 cask 'iterm2'
 cask 'karabiner-elements'
 cask 'little-snitch'
+cask 'microsoft-excel'
+cask 'microsoft-powerpoint'
+cask 'microsoft-teams'
+cask 'microsoft-word'
 cask 'phpstorm'
 cask 'sequel-pro'
 cask 'skype'
@@ -75,8 +79,6 @@ mas 'Blink Lite', id: 431473881
 mas 'Fantastical', id: 975937182
 mas 'Keynote', id: 409183694
 mas 'Magnet', id: 441258766
-mas 'Numbers', id: 409203825
-mas 'Pages', id: 409201541
 mas 'Pixelmator', id: 407963104
 mas 'Spark', id: 1176895641
 mas 'Tweetbot', id: 557168941
