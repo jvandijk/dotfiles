@@ -19,6 +19,7 @@ brew 'wget'
 # Development
 brew 'asdf'
 brew 'composer'
+brew 'gpgme'
 brew 'imagemagick'
 brew 'nvm'
 brew 'php'
