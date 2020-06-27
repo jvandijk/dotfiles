@@ -520,6 +520,12 @@
         "options": {
           "full_name": "microsoft-word"
         }
+      },
+      "stack": {
+        "version": "2.6.4.20200506",
+        "options": {
+          "full_name": "stack"
+        }
       }
     },
     "mas": {
