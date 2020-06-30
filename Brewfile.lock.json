@@ -2,7 +2,7 @@
   "entries": {
     "tap": {
       "homebrew/cask": {
-        "revision": "6ce594644927dbc237dbbc8fce52830ed89161bd"
+        "revision": "fd77af07ecc4e5282023fb4a5beae36fdcd39d9c"
       },
       "homebrew/cask-eid": {
         "revision": "248e26a85a5e903fd134954ec82138cfe35eb5ce"
@@ -11,10 +11,10 @@
         "revision": "5edacb220edc4e8b7893027bc5052928131f1fb3"
       },
       "homebrew/cask-versions": {
-        "revision": "aa1f301f69f4c89c12a3a91adace7bea6728f48b"
+        "revision": "c038a69d0d1928e2dfd88a70833746337b1b92f1"
       },
       "homebrew/bundle": {
-        "revision": "4cce2285690f68f0797a2e2796b21578ae6ff2f1"
+        "revision": "fe5b147610fba05686c90319703aee57cdba9a30"
       },
       "romkatv/powerlevel10k": {
         "revision": "06ad7f48760247bbb5fed8b8764e1fdc461ed8a2"
@@ -543,7 +543,7 @@
       },
       "Fantastical": {
         "id": "975937182",
-        "version": "3.1"
+        "version": "3.1.1"
       },
       "Keynote": {
         "id": "409183694",
@@ -588,7 +588,7 @@
       "catalina": {
         "HOMEBREW_VERSION": "2.4.2",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "9398161363e47d6c6d3920d776e9b0ab8bf78b70",
+        "Homebrew/homebrew-core": "251d53d579936fdf2626f322bb04dd26c119a2ac",
         "CLT": "11.5.0.0.1.1588476445",
         "Xcode": "11.5",
         "macOS": "10.15.5"
