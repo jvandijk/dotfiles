@@ -2,19 +2,19 @@
   "entries": {
     "tap": {
       "homebrew/cask": {
-        "revision": "49c004352ba7fddaa82d2f03afe088d83368242d"
+        "revision": "1425c06db11ddcaf640872cce887137b4fce8439"
       },
       "homebrew/cask-eid": {
-        "revision": "248e26a85a5e903fd134954ec82138cfe35eb5ce"
+        "revision": "4d4470de1ce7f5a2f14bc95f0a9c223d6d8df472"
       },
       "homebrew/cask-fonts": {
-        "revision": "26c72a60bd9a1f16f30bf99d67a93f80272de028"
+        "revision": "25d915075752d5350f917b5438b13e24ed7c9043"
       },
       "homebrew/cask-versions": {
-        "revision": "c24a6a16c585475d1bf3901c40d425406be5932f"
+        "revision": "e87e048549f7add052c678361550974e6bced6c4"
       },
       "homebrew/bundle": {
-        "revision": "b2faa30e18a4143d9621d02d0a0f55f17abc08e2"
+        "revision": "9a3850f055cbb0eceec5b57d68334388594793ce"
       },
       "romkatv/powerlevel10k": {
         "revision": "06ad7f48760247bbb5fed8b8764e1fdc461ed8a2"
@@ -288,7 +288,7 @@
         }
       },
       "aerial": {
-        "version": "1.9.1",
+        "version": "1.9.2",
         "options": {
           "full_name": "aerial"
         }
@@ -588,7 +588,7 @@
       "catalina": {
         "HOMEBREW_VERSION": "2.4.3",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "ed707658e211d543587fed30a209cf826cee887c",
+        "Homebrew/homebrew-core": "f18f469aa70563003e7253b159314340abf63942",
         "CLT": "11.5.0.0.1.1588476445",
         "Xcode": "11.5",
         "macOS": "10.15.5"
