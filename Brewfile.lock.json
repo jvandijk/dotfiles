@@ -2,19 +2,19 @@
   "entries": {
     "tap": {
       "homebrew/cask": {
-        "revision": "fd77af07ecc4e5282023fb4a5beae36fdcd39d9c"
+        "revision": "49c004352ba7fddaa82d2f03afe088d83368242d"
       },
       "homebrew/cask-eid": {
         "revision": "248e26a85a5e903fd134954ec82138cfe35eb5ce"
       },
       "homebrew/cask-fonts": {
-        "revision": "5edacb220edc4e8b7893027bc5052928131f1fb3"
+        "revision": "26c72a60bd9a1f16f30bf99d67a93f80272de028"
       },
       "homebrew/cask-versions": {
-        "revision": "c038a69d0d1928e2dfd88a70833746337b1b92f1"
+        "revision": "c24a6a16c585475d1bf3901c40d425406be5932f"
       },
       "homebrew/bundle": {
-        "revision": "fe5b147610fba05686c90319703aee57cdba9a30"
+        "revision": "b2faa30e18a4143d9621d02d0a0f55f17abc08e2"
       },
       "romkatv/powerlevel10k": {
         "revision": "06ad7f48760247bbb5fed8b8764e1fdc461ed8a2"
@@ -49,16 +49,16 @@
           "prefix": "/usr/local",
           "files": {
             "catalina": {
-              "url": "https://homebrew.bintray.com/bottles/git-2.27.0.catalina.bottle.tar.gz",
-              "sha256": "5bfe46796926e48d2d78ee87e93195c0a36f7c70d9aa4ff8ab77277a6582441a"
+              "url": "https://homebrew.bintray.com/bottles/git-2.27.0.catalina.bottle.1.tar.gz",
+              "sha256": "731a77dd23d63ca8a0a5ba5c990218e37f1c8d9313fa1f9e58771cf5abd97bef"
             },
             "mojave": {
-              "url": "https://homebrew.bintray.com/bottles/git-2.27.0.mojave.bottle.tar.gz",
-              "sha256": "dffad4b938672dda3aef783f88cf38d67923f8f8e68df77b198476816fd37d4f"
+              "url": "https://homebrew.bintray.com/bottles/git-2.27.0.mojave.bottle.1.tar.gz",
+              "sha256": "a752212149e96e67fd8c42e1d68d7612de94bc67f06ffdc13ed7236aa33debf4"
             },
             "high_sierra": {
-              "url": "https://homebrew.bintray.com/bottles/git-2.27.0.high_sierra.bottle.tar.gz",
-              "sha256": "c9f1d9ac100e43a2e6f1df9785d98119d08bf144d862fb541c1212ccfb700041"
+              "url": "https://homebrew.bintray.com/bottles/git-2.27.0.high_sierra.bottle.1.tar.gz",
+              "sha256": "c9b1c7d3686fac0f7006b13b1afd46e38f2d6c73dd72049d9e8fc49b1bb34599"
             }
           }
         }
@@ -330,7 +330,7 @@
         }
       },
       "drawio": {
-        "version": "13.3.1",
+        "version": "13.3.5",
         "options": {
           "full_name": "drawio"
         }
@@ -586,9 +586,9 @@
   "system": {
     "macos": {
       "catalina": {
-        "HOMEBREW_VERSION": "2.4.2",
+        "HOMEBREW_VERSION": "2.4.3",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "251d53d579936fdf2626f322bb04dd26c119a2ac",
+        "Homebrew/homebrew-core": "ed707658e211d543587fed30a209cf826cee887c",
         "CLT": "11.5.0.0.1.1588476445",
         "Xcode": "11.5",
         "macOS": "10.15.5"
