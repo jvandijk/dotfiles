@@ -526,6 +526,18 @@
         "options": {
           "full_name": "stack"
         }
+      },
+      "font-meslolg-nerd-font": {
+        "version": "2.1.0",
+        "options": {
+          "full_name": "font-meslolg-nerd-font"
+        }
+      },
+      "font-fontawesome": {
+        "version": "5.13.1",
+        "options": {
+          "full_name": "font-fontawesome"
+        }
       }
     },
     "mas": {

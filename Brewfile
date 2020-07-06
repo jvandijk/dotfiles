@@ -71,7 +71,9 @@ cask 'quicklook-csv'
 cask 'qlstephen'
 
 # Fonts
+cask 'font-fontawesome'
 cask 'font-lato'
+cask 'font-meslolg-nerd-font'
 cask 'font-source-sans-pro'
 
 # Mac App Store
