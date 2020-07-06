@@ -245,7 +245,12 @@
       },
       "yarn": {
         "version": "1.22.4",
-        "bottle": false
+        "bottle": false,
+        "options": {
+          "args": [
+            "without-node"
+          ]
+        }
       },
       "romkatv/powerlevel10k/powerlevel10k": null,
       "nvm": {

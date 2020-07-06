@@ -28,9 +28,6 @@ mkdir $HOME/Sites
 rm -rf $HOME/.zshrc
 ln -s $HOME/.dotfiles/.zshrc $HOME/.zshrc
 
-# Link the P10k setup
-ln -s $HOME/.dotfiles/.p10k.zsh $HOME/.p10k.zsh
-
 # Symlink the Mackup config file to the home directory
 ln -s $HOME/.dotfiles/.mackup.cfg $HOME/.mackup.cfg
 

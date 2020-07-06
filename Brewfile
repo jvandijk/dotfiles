@@ -24,7 +24,7 @@ brew 'imagemagick'
 brew 'nvm'
 brew 'php'
 brew 'romkatv/powerlevel10k/powerlevel10k'
-brew 'yarn'
+brew 'yarn', args: ["without-node"]
 
 # Apps
 cask '1password'
