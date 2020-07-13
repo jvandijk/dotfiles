@@ -2,19 +2,19 @@
   "entries": {
     "tap": {
       "homebrew/cask": {
-        "revision": "d5a5b8327a7850400199f4138ce452ca54c332b8"
+        "revision": "4fc1c5fd1a307aabed6070264170ea0f2c1c47f6"
       },
       "homebrew/cask-eid": {
         "revision": "4d4470de1ce7f5a2f14bc95f0a9c223d6d8df472"
       },
       "homebrew/cask-fonts": {
-        "revision": "f0177f59ec25a75a9e0acba1c44d12b752a53ebf"
+        "revision": "70b06df1704d77baca7c43e4d5446df1c23d52a3"
       },
       "homebrew/cask-versions": {
-        "revision": "61e367aafd1b31eb59eca6e3443b6aeb9f6339bd"
+        "revision": "8370a5b84f722c5bffb3f8e17f1f1cde3928299f"
       },
       "homebrew/bundle": {
-        "revision": "7daf3f916d8914bbde82b04b84e721f9d517f630"
+        "revision": "f760551841012ee20c90f2afd336c15423b23479"
       },
       "romkatv/powerlevel10k": {
         "revision": "24e3945a989753d681a944563cc6dc1d098adfea"
@@ -223,22 +223,22 @@
         }
       },
       "php": {
-        "version": "7.4.7",
+        "version": "7.4.8",
         "bottle": {
           "cellar": "/usr/local/Cellar",
           "prefix": "/usr/local",
           "files": {
             "catalina": {
-              "url": "https://homebrew.bintray.com/bottles/php-7.4.7.catalina.bottle.1.tar.gz",
-              "sha256": "b71beb1e3270aa038da084e4c49cd2dc79a1f0e9e10e45eb0a0279874fc3c956"
+              "url": "https://homebrew.bintray.com/bottles/php-7.4.8.catalina.bottle.tar.gz",
+              "sha256": "da81ec7dbe2ab2d9cbfcb5fcfa5f8e4fa0258f1947c52a13967c52dc6bab7f8f"
             },
             "mojave": {
-              "url": "https://homebrew.bintray.com/bottles/php-7.4.7.mojave.bottle.1.tar.gz",
-              "sha256": "f0a7264d9be901f47af300b75c914d4958898e5ca281c52e01a1065f8ee7ecac"
+              "url": "https://homebrew.bintray.com/bottles/php-7.4.8.mojave.bottle.tar.gz",
+              "sha256": "c5dab2822c4d18b48379a1351854020dc81a52c94e400a7129f68220daa59fca"
             },
             "high_sierra": {
-              "url": "https://homebrew.bintray.com/bottles/php-7.4.7.high_sierra.bottle.1.tar.gz",
-              "sha256": "f5c18b09a7980926478503134ec200399fc65b290427130d52f7d680da66105c"
+              "url": "https://homebrew.bintray.com/bottles/php-7.4.8.high_sierra.bottle.tar.gz",
+              "sha256": "d6525030277bf523c2e80a8ae5d8a5b3f0ce84a7679ec79c1fb89f4109c0f2f7"
             }
           }
         }
@@ -285,13 +285,13 @@
     },
     "cask": {
       "1password": {
-        "version": "7.5",
+        "version": "7.6",
         "options": {
           "full_name": "1password"
         }
       },
       "1password-cli": {
-        "version": "1.2.0",
+        "version": "1.2.1",
         "options": {
           "full_name": "1password-cli"
         }
@@ -303,7 +303,7 @@
         }
       },
       "alfred": {
-        "version": "4.0.9_1144",
+        "version": "4.1_1167",
         "options": {
           "full_name": "alfred"
         }
@@ -339,7 +339,7 @@
         }
       },
       "drawio": {
-        "version": "13.3.5",
+        "version": "13.3.9",
         "options": {
           "full_name": "drawio"
         }
@@ -375,7 +375,7 @@
         }
       },
       "phpstorm": {
-        "version": "2020.1.2,201.7846.90",
+        "version": "2020.1.3,201.8538.41",
         "options": {
           "full_name": "phpstorm"
         }
@@ -387,7 +387,7 @@
         }
       },
       "skype": {
-        "version": "8.61.0.95",
+        "version": "8.62.0.85",
         "options": {
           "full_name": "skype"
         }
@@ -429,7 +429,7 @@
         }
       },
       "viscosity": {
-        "version": "1.8.5",
+        "version": "1.8.6",
         "options": {
           "full_name": "viscosity"
         }
@@ -441,13 +441,13 @@
         }
       },
       "whatsapp": {
-        "version": "2.2023.2",
+        "version": "2.2027.10",
         "options": {
           "full_name": "whatsapp"
         }
       },
       "zoomus": {
-        "version": "5.1.27838.0614",
+        "version": "5.1.28648.0705",
         "options": {
           "full_name": "zoomus"
         }
@@ -568,7 +568,7 @@
       },
       "Keynote": {
         "id": "409183694",
-        "version": "10.0"
+        "version": "10.1"
       },
       "Magnet": {
         "id": "441258766",
@@ -607,9 +607,9 @@
   "system": {
     "macos": {
       "catalina": {
-        "HOMEBREW_VERSION": "2.4.3",
+        "HOMEBREW_VERSION": "2.4.6-31-g551d684",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "cfb5b5eda2f8b02f765c620cb5afe109e2375e8e",
+        "Homebrew/homebrew-core": "e6d0725d365519aa3fcaaa99558f5ca1adb3be23",
         "CLT": "11.5.0.0.1.1588476445",
         "Xcode": "11.5",
         "macOS": "10.15.5"
