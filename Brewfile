@@ -25,6 +25,7 @@ brew 'nvm'
 brew 'php'
 brew 'romkatv/powerlevel10k/powerlevel10k'
 brew 'yarn', args: ["without-node"]
+brew 'zsh-autosuggestions'
 
 # Apps
 cask '1password'
