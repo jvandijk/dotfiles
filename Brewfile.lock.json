@@ -2,19 +2,19 @@
   "entries": {
     "tap": {
       "homebrew/cask": {
-        "revision": "4fc1c5fd1a307aabed6070264170ea0f2c1c47f6"
+        "revision": "808993fe8c242ca3b9a0fbf895e677162df730d7"
       },
       "homebrew/cask-eid": {
         "revision": "4d4470de1ce7f5a2f14bc95f0a9c223d6d8df472"
       },
       "homebrew/cask-fonts": {
-        "revision": "70b06df1704d77baca7c43e4d5446df1c23d52a3"
+        "revision": "905006906b45632c47bcd3617c684552379600cb"
       },
       "homebrew/cask-versions": {
-        "revision": "8370a5b84f722c5bffb3f8e17f1f1cde3928299f"
+        "revision": "c1077b18879c05c84d0fc49f838d00be68933f8a"
       },
       "homebrew/bundle": {
-        "revision": "f760551841012ee20c90f2afd336c15423b23479"
+        "revision": "c3162a3b89a066cf37ad165f5a155da18e70d9f8"
       },
       "romkatv/powerlevel10k": {
         "revision": "24e3945a989753d681a944563cc6dc1d098adfea"
@@ -198,26 +198,26 @@
         "bottle": false
       },
       "composer": {
-        "version": "1.10.8",
+        "version": "1.10.9",
         "bottle": false
       },
       "imagemagick": {
-        "version": "7.0.10-23",
+        "version": "7.0.10-24",
         "bottle": {
           "cellar": "/usr/local/Cellar",
           "prefix": "/usr/local",
           "files": {
             "catalina": {
-              "url": "https://homebrew.bintray.com/bottles/imagemagick-7.0.10-23.catalina.bottle.tar.gz",
-              "sha256": "bf19ce6c826be9ab5a42d4e02b74d2f6cd8f5d9402276dae5428ac3c1dc08c6d"
+              "url": "https://homebrew.bintray.com/bottles/imagemagick-7.0.10-24.catalina.bottle.tar.gz",
+              "sha256": "e4ff7a97919d4113706132b138abfad1dbe10973b2a1c94f5562b9cdfca9ed38"
             },
             "mojave": {
-              "url": "https://homebrew.bintray.com/bottles/imagemagick-7.0.10-23.mojave.bottle.tar.gz",
-              "sha256": "d2acf6bbf71aa2128b30feb968f19b96e9b0878700bebe15c2cbe2523a76f631"
+              "url": "https://homebrew.bintray.com/bottles/imagemagick-7.0.10-24.mojave.bottle.tar.gz",
+              "sha256": "b035e1d0706fdce526d8aaf43733415b6302f4042423cefddb35bf4be20bd17d"
             },
             "high_sierra": {
-              "url": "https://homebrew.bintray.com/bottles/imagemagick-7.0.10-23.high_sierra.bottle.tar.gz",
-              "sha256": "9ce075b1ff714f828747d6b564d95c85d269795b75bbcd6129bd3628ea596b60"
+              "url": "https://homebrew.bintray.com/bottles/imagemagick-7.0.10-24.high_sierra.bottle.tar.gz",
+              "sha256": "2bb101df6142695a1c8f08e3ffdb40fde3290bcfe6ed0390192b6165b65221b4"
             }
           }
         }
@@ -258,22 +258,22 @@
         "bottle": false
       },
       "gpgme": {
-        "version": "1.13.1_1",
+        "version": "1.14.0",
         "bottle": {
           "cellar": ":any",
           "prefix": "/usr/local",
           "files": {
             "catalina": {
-              "url": "https://homebrew.bintray.com/bottles/gpgme-1.13.1_1.catalina.bottle.tar.gz",
-              "sha256": "85e3bca3de90a091853a056a40fc22778d3a75abb4297064edae1fc07eaefdee"
+              "url": "https://homebrew.bintray.com/bottles/gpgme-1.14.0.catalina.bottle.tar.gz",
+              "sha256": "9adeee9e826faf7e4955cf5e7da6a3c17b6c31a8c96b27eb486201db01fae024"
             },
             "mojave": {
-              "url": "https://homebrew.bintray.com/bottles/gpgme-1.13.1_1.mojave.bottle.tar.gz",
-              "sha256": "b49b55062ab1ba7a6994ac8506aeec65ba5acd512fabfa696148dd7b08acb1d9"
+              "url": "https://homebrew.bintray.com/bottles/gpgme-1.14.0.mojave.bottle.tar.gz",
+              "sha256": "8d5d6da3d5161f149e2b1b724b058f46c98c444af366a11165fb3cb2afd7cdf6"
             },
             "high_sierra": {
-              "url": "https://homebrew.bintray.com/bottles/gpgme-1.13.1_1.high_sierra.bottle.tar.gz",
-              "sha256": "c4bc2011b6afe87a0f3d76c43c50c117c1640eaa848c7a4f7be0f92e261017a7"
+              "url": "https://homebrew.bintray.com/bottles/gpgme-1.14.0.high_sierra.bottle.tar.gz",
+              "sha256": "370890e7494a7be13e88493520715c48d2d45217daf0419594c1e78d06c6d8ac"
             }
           }
         }
@@ -291,7 +291,7 @@
         }
       },
       "1password-cli": {
-        "version": "1.2.1",
+        "version": "1.3.0",
         "options": {
           "full_name": "1password-cli"
         }
@@ -339,7 +339,7 @@
         }
       },
       "drawio": {
-        "version": "13.3.9",
+        "version": "13.4.5",
         "options": {
           "full_name": "drawio"
         }
@@ -351,7 +351,7 @@
         }
       },
       "google-chrome": {
-        "version": "83.0.4103.106",
+        "version": "84.0.4147.89",
         "options": {
           "full_name": "google-chrome"
         }
@@ -417,13 +417,13 @@
         }
       },
       "virtualbox": {
-        "version": "6.1.10,138449",
+        "version": "6.1.12,139181",
         "options": {
           "full_name": "virtualbox"
         }
       },
       "virtualbox-extension-pack": {
-        "version": "6.1.10",
+        "version": "6.1.12",
         "options": {
           "full_name": "virtualbox-extension-pack"
         }
@@ -441,7 +441,7 @@
         }
       },
       "whatsapp": {
-        "version": "2.2027.10",
+        "version": "2.2029.4",
         "options": {
           "full_name": "whatsapp"
         }
@@ -507,13 +507,13 @@
         }
       },
       "microsoft-excel": {
-        "version": "16.38.20061401",
+        "version": "16.39.20071300",
         "options": {
           "full_name": "microsoft-excel"
         }
       },
       "microsoft-powerpoint": {
-        "version": "16.38.20061401",
+        "version": "16.39.20071300",
         "options": {
           "full_name": "microsoft-powerpoint"
         }
@@ -525,7 +525,7 @@
         }
       },
       "microsoft-word": {
-        "version": "16.38.20061401",
+        "version": "16.39.20071300",
         "options": {
           "full_name": "microsoft-word"
         }
@@ -607,9 +607,9 @@
   "system": {
     "macos": {
       "catalina": {
-        "HOMEBREW_VERSION": "2.4.6-31-g551d684",
+        "HOMEBREW_VERSION": "2.4.8",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "e6d0725d365519aa3fcaaa99558f5ca1adb3be23",
+        "Homebrew/homebrew-core": "7a6b9029e2b556e97630160bf781705b8257c194",
         "CLT": "11.5.0.0.1.1588476445",
         "Xcode": "11.5",
         "macOS": "10.15.5"
