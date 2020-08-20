@@ -547,6 +547,12 @@
         "options": {
           "full_name": "font-fontawesome"
         }
+      },
+      "webex-meetings": {
+        "version": "latest",
+        "options": {
+          "full_name": "webex-meetings"
+        }
       }
     },
     "mas": {
@@ -609,7 +615,7 @@
       "catalina": {
         "HOMEBREW_VERSION": "2.4.8",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "7a6b9029e2b556e97630160bf781705b8257c194",
+        "Homebrew/homebrew-core": "1755e6bf7a8a4a0a6c0772f6611376915f5d71a4",
         "CLT": "11.5.0.0.1.1588476445",
         "Xcode": "11.5",
         "macOS": "10.15.5"

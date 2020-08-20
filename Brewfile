@@ -60,6 +60,7 @@ cask 'virtualbox' # Might need to allow access in Security settings
 cask 'virtualbox-extension-pack'
 cask 'viscosity'
 cask 'vlc'
+cask 'webex-meetings'
 cask 'whatsapp'
 cask 'zoomus'
 
