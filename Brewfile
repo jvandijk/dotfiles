@@ -18,6 +18,7 @@ brew 'wget'
 # Development
 brew 'asdf'
 brew 'composer'
+brew 'docker-compose'
 brew 'gpgme'
 brew 'imagemagick'
 brew 'nvm'

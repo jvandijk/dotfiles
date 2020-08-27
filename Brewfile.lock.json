@@ -281,6 +281,27 @@
       "zsh-autosuggestions": {
         "version": "0.6.4",
         "bottle": false
+      },
+      "docker-compose": {
+        "version": "1.26.2",
+        "bottle": {
+          "cellar": ":any",
+          "prefix": "/usr/local",
+          "files": {
+            "catalina": {
+              "url": "https://homebrew.bintray.com/bottles/docker-compose-1.26.2.catalina.bottle.1.tar.gz",
+              "sha256": "bc1ad5db046542ffd71a82f925bf9528508a11a7de0a48926283523513b218a5"
+            },
+            "mojave": {
+              "url": "https://homebrew.bintray.com/bottles/docker-compose-1.26.2.mojave.bottle.1.tar.gz",
+              "sha256": "7cd3ecbe6c03b9425674bac87430e2a988bad2e4335f485d71679348ff7226c5"
+            },
+            "high_sierra": {
+              "url": "https://homebrew.bintray.com/bottles/docker-compose-1.26.2.high_sierra.bottle.1.tar.gz",
+              "sha256": "f4883d177fb8cbea9bd9c289a04b774c02d201cf394156f09207cdcf3ad9d2da"
+            }
+          }
+        }
       }
     },
     "cask": {
@@ -333,7 +354,7 @@
         }
       },
       "docker": {
-        "version": "2.3.0.3,45519",
+        "version": "2.3.0.4,46911",
         "options": {
           "full_name": "docker"
         }
