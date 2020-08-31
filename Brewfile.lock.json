@@ -580,6 +580,12 @@
         "options": {
           "full_name": "font-meslo-lg-nerd-font"
         }
+      },
+      "google-cloud-sdk": {
+        "version": "latest",
+        "options": {
+          "full_name": "google-cloud-sdk"
+        }
       }
     },
     "mas": {
