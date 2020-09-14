@@ -603,7 +603,7 @@
       },
       "Fantastical": {
         "id": "975937182",
-        "version": "3.1.5"
+        "version": "3.1.6"
       },
       "Keynote": {
         "id": "409183694",
@@ -639,7 +639,7 @@
       },
       "Xcode": {
         "id": "497799835",
-        "version": "11.5"
+        "version": "11.7"
       }
     }
   },
@@ -650,7 +650,7 @@
         "HOMEBREW_PREFIX": "/usr/local",
         "Homebrew/homebrew-core": "61398c9cb11982bbb334244d67c2c907b1462c36",
         "CLT": "11.5.0.0.1.1588476445",
-        "Xcode": "11.5",
+        "Xcode": "11.7",
         "macOS": "10.15.5"
       }
     }
