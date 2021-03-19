@@ -34,7 +34,6 @@ cask 'aerial'
 cask 'alfred'
 cask 'blockblock'
 cask 'charles'
-cask 'coda'
 cask 'daisydisk'
 cask 'docker'
 cask 'drawio'
@@ -49,6 +48,8 @@ cask 'microsoft-excel'
 cask 'microsoft-powerpoint'
 cask 'microsoft-teams'
 cask 'microsoft-word'
+cask 'nova'
+cask 'penc'
 cask 'phpstorm'
 cask 'sequel-pro'
 cask 'skype'
@@ -64,7 +65,7 @@ cask 'viscosity'
 cask 'vlc'
 cask 'webex-meetings'
 cask 'whatsapp'
-cask 'zoomus'
+cask 'zoom'
 
 # Quicklook
 cask 'qlcolorcode'
@@ -85,9 +86,10 @@ mas 'Better', id: 1121192229
 mas 'Blink Lite', id: 431473881
 mas 'Fantastical', id: 975937182
 mas 'Keynote', id: 409183694
-mas 'Magnet', id: 441258766
+mas 'Menu Bar Controller for Sonos', id: 1357379892
 mas 'Pixelmator', id: 407963104
 mas 'Spark', id: 1176895641
+mas 'Trello', id: 1278508951
 mas 'Tweetbot', id: 557168941
 mas 'WeTransfer', id: 1114922065
 mas 'Xcode', id: 497799835
