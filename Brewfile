@@ -14,12 +14,13 @@ brew 'mackup'
 brew 'mas' # Mac App Store manager
 brew 'tree' # List directories in a tree structure
 brew 'wget'
+brew 'youtube-dl'
 
 # Development
 brew 'asdf'
 brew 'composer'
-brew 'docker-compose'
 brew 'gpgme'
+brew 'httpie'
 brew 'imagemagick'
 brew 'nvm'
 brew 'php'
@@ -43,6 +44,7 @@ cask 'google-cloud-sdk'
 cask 'istat-menus'
 cask 'iterm2'
 cask 'karabiner-elements'
+cask 'licecap'
 cask 'little-snitch'
 cask 'microsoft-excel'
 cask 'microsoft-powerpoint'
@@ -76,8 +78,10 @@ cask 'qlstephen'
 
 # Fonts
 cask 'font-fontawesome'
+cask 'font-gilbert'
 cask 'font-lato'
 cask 'font-meslo-lg-nerd-font'
+cask 'font-roboto-mono-nerd-font'
 cask 'font-source-sans-pro'
 
 # Mac App Store
